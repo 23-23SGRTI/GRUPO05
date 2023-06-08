@@ -35,7 +35,7 @@ Para cumplir con nuestros objetivos, hemos establecido la siguiente metodología
 
 ## Contacto
 
-Si tienes alguna pregunta, sugerencia o simplemente deseas ponerte en contacto con nosotros, no dudes en comunicarte a través de (grupo5seguridaduce@gmail.com)
+Si tienes alguna pregunta, sugerencia o simplemente deseas ponerte en contacto con nosotros, no dudes en comunicarte a través de grupo5seguridaduce@gmail.com
 
 ¡Esperamos tener una experiencia de aprendizaje enriquecedora y colaborativa junto a todos los miembros del curso!
 
