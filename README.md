@@ -28,15 +28,14 @@ Nuestro grupo tiene los siguientes objetivos para el curso de seguridad informá
 
 Para cumplir con nuestros objetivos, hemos establecido la siguiente metodología de trabajo:
 
-1. Comunicación: Mantendremos una comunicación fluida y colaborativa a través de plataformas como [mencionar plataformas de comunicación utilizadas, por ejemplo, Slack, Discord, etc.]. Utilizaremos estos canales para compartir ideas, plantear preguntas y mantenernos actualizados sobre las tareas del curso.
-
-2. Organización de Tareas: Utilizaremos el repositorio [mencionar el nombre del repositorio] como nuestra plataforma principal para organizar y entregar las tareas del curso. Cada tarea se creará como un archivo individual dentro de la carpeta correspondiente. Nos comprometemos a cumplir con los plazos establecidos y revisar las tareas de manera exhaustiva antes de entregarlas.
+1. Comunicación: Mantendremos una comunicación fluida y colaborativa a través de la plataforma.
+2. Organización de Tareas: Utilizaremos el repositorio *GRUPO05* como nuestra plataforma principal para organizar y entregar las tareas del curso. Cada tarea se creará como un archivo individual dentro de la carpeta correspondiente. Nos comprometemos a cumplir con los plazos establecidos y revisar las tareas de manera exhaustiva antes de entregarlas.
 
 3. Revisión de Proyectos: Invitamos a todos los miembros del curso a revisar los proyectos que desarrollaremos a lo largo de la duración del curso. Compartiremos los enlaces a nuestros proyectos en el repositorio y estaremos abiertos a recibir comentarios constructivos y sugerencias de mejora.
 
 ## Contacto
 
-Si tienes alguna pregunta, sugerencia o simplemente deseas ponerte en contacto con nosotros, no dudes en comunicarte a través de [proporcionar el medio de contacto preferido, como correo electrónico o una plataforma de mensajería].
+Si tienes alguna pregunta, sugerencia o simplemente deseas ponerte en contacto con nosotros, no dudes en comunicarte a través de (grupo5seguridaduce@gmail.com)
 
 ¡Esperamos tener una experiencia de aprendizaje enriquecedora y colaborativa junto a todos los miembros del curso!
 
